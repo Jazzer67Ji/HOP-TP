@@ -1,0 +1,46 @@
+﻿Car Make;Car Model;Year;Engine Size (L);Horsepower;Torque (lb-ft);0-60 MPH Time (seconds);Price (in USD)
+Koenigsegg   ;Jesko                        ;2021;5                   ;1280   ;1015   ;2.5  ;2,800,000.00
+Rimac        ;Nevera                       ;2022;Electric            ;1914   ;1696   ;1.85 ;2,400,000.00
+Ferrari      ;SF90 Stradale                ;2021;4                   ;986    ;590    ;2.5  ;625,000.00
+Ford         ;GT                           ;2022;3.5                 ;660    ;550    ;2.8  ;500,000.00
+Lamborghini  ;Aventador                    ;2021;6.5                 ;730    ;507    ;2.8  ;517,770.00
+Bugatti      ;Chiron                       ;2021;8                   ;1500   ;1180   ;2.4  ;3,000,000.00
+Pagani       ;Huayra                       ;2020;6                   ;720    ;738    ;3    ;2,700,000.00
+Shelby       ;Cobra                        ;1965;7                   ;435    ;440    ;4.2  ;1,000,000.00
+W Motors     ;Lykan Hypersport             ;2015;3.7                 ;780    ;708    ;2.8  ;3,400,000.00
+Lamborghini  ;Aventador                    ;2021;6.5                 ;730    ;509    ;2.9  ;517,700.00
+Ford         ;GT                           ;2022;3.5                 ;660    ;550    ;2.9  ;500,000.00
+Bugatti      ;Chiron                       ;2021;8                   ;1500   ;1180   ;2.3  ;3,000,000.00
+Ferrari      ;SF90 Stradale                ;2021;4                   ;986    ;590    ;2.5  ;625,000.00
+Bugatti      ;Chiron                       ;2021;8                   ;1500   ;1180   ;2.4  ;2,998,000.00
+Rimac        ;C_Two                        ;2022;Electric            ;1914   ;1732   ;1.85 ;2,400,000.00
+Ford         ;GT                           ;2022;3.5                 ;660    ;550    ;3    ;500,000.00
+Pagani       ;Huayra                       ;2021;6                   ;730    ;738    ;3    ;2,600,000.00
+Pagani       ;Huayra BC                    ;2021;6                   ;791    ;774    ;2.7  ;2,600,000.00
+Ford         ;GT                           ;2021;3.5                 ;660    ;550    ;2.9  ;500,000.00
+Koenigsegg   ;Jesko Absolut                ;2022;5                   ;1600   ;1106   ;2.1  ;2,800,000.00
+Bugatti      ;Chiron                       ;2022;8                   ;1500   ;1180   ;2.4  ;3,000,000.00
+Lamborghini  ;Sián                        ;2021;6.5                 ;819    ;531    ;2.8  ;3,600,000.00
+Ford         ;GT                           ;2022;3.5                 ;660    ;550    ;3    ;500,000.00
+Ford         ;GT                           ;2021;3.5                 ;647    ;550    ;2.8  ;500,000.00
+Koenigsegg   ;Jesko                        ;2021;5                   ;1280   ;1106   ;2.5  ;2,800,000.00
+Rimac        ;C_Two                        ;2022;Electric            ;1914   ;1696   ;1.9  ;2,400,000.00
+McLaren      ;Senna                        ;2020;4                   ;789    ;590    ;2.7  ;1,500,000.00
+Ford         ;GT                           ;2022;3.5                 ;660    ;550    ;3    ;500,000.00
+Ferrari      ;SF90 Stradale                ;2021;4                   ;986    ;590    ;2.5  ;625,000.00
+Rimac        ;C_Two                        ;2022;N/A                 ;1914   ;1696   ;1.85 ;2,400,000.00
+Lamborghini  ;Aventador SVJ                ;2020;6.5                 ;759    ;531    ;2.8  ;517,000.00
+Ferrari      ;SF90 Stradale                ;2021;4                   ;986    ;590    ;2.5  ;625,000.00
+Ford         ;GT                           ;2021;3.5                 ;660    ;550    ;2.9  ;500,000.00
+Bugatti      ;Chiron                       ;2021;8                   ;1479   ;1180   ;2.4  ;3,000,000.00
+Lamborghini  ;Aventador SVJ                ;2021;6.5                 ;759    ;531    ;2.8  ;517,000.00
+Koenigsegg   ;Jesko                        ;2022;5                   ;1600   ;1106   ;2.5  ;3,000,000.00
+Ford         ;GT                           ;2022;3.5                 ;660    ;550    ;2.9  ;500,000.00
+Lamborghini  ;Aventador                    ;2021;6.5                 ;730    ;509    ;2.9  ;517,000.00
+Ford         ;GT                           ;2022;3.5                 ;660    ;550    ;2.8  ;500,000.00
+Bugatti      ;Chiron                       ;2021;8                   ;1,500  ;1,180  ;2.4  ;3,000,000.00
+Ford         ;GT                           ;2021;3.5                 ;660    ;550    ;3    ;500,000.00
+Ferrari      ;SF90 Stradale                ;2021;4                   ;986    ;590    ;2.5  ;625,000.00
+Rimac        ;Nevera                       ;2022;Electric            ;1914   ;1696   ;1.85 ;2,400,000.00
+Koenigsegg   ;Jesko                        ;2022;5                   ;1280   ;1106   ;2.5  ;3,000,000.00
+Rimac        ;Nevera                       ;2021;Electric Motor      ;1888   ;1696   ;1.85 ;2,400,000.00

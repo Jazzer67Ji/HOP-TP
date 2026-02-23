@@ -1,0 +1,8 @@
+﻿Car Make;Car Model;Year;Engine Size (L);Horsepower;Torque (lb-ft);0-60 MPH Time (seconds);Price (in USD)
+Mercedes-Benz;SLS AMG                      ;2015;6.2                 ;622    ;468    ;3.2  ;222,000.00
+Dodge        ;Viper                        ;2017;8.4                 ;645    ;600    ;3.3  ;120,000.00
+W Motors     ;Lykan Hypersport             ;2015;3.7                 ;780    ;708    ;2.8  ;3,400,000.00
+Mercedes-Benz;SLS AMG Black Series         ;2014;6.2                 ;622    ;468    ;3.5  ;275,000.00
+Dodge        ;Viper                        ;2017;8.4                 ;645    ;600    ;3.3  ;118,795.00
+Dodge        ;Viper ACR                    ;2017;8.4                 ;645    ;600    ;3.3  ;126,190.00
+Mercedes-Benz;SLS AMG                      ;2015;6.2                 ;583    ;479    ;3.6  ;221,580.00

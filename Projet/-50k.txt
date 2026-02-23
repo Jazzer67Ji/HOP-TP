@@ -1,0 +1,227 @@
+﻿Car Make;Car Model;Year;Engine Size (L);Horsepower;Torque (lb-ft);0-60 MPH Time (seconds);Price (in USD)
+Lamborghini  ;Huracan                      ;2021;5.2                 ;630    ;443    ;2.8  ;274,390.00
+BMW          ;M8                           ;2022;4.4                 ;617    ;553    ;3.1  ;130,000.00
+Nissan       ;GT-R Nismo                   ;2021;3.8                 ;600    ;481    ;2.5  ;212,000.00
+Jaguar       ;F-Type                       ;2022;3                   ;296    ;295    ;5.4  ;70,100.00
+Maserati     ;GranTurismo                  ;2021;4.7                 ;454    ;384    ;4.8  ;150,000.00
+Bentley      ;Continental GT               ;2021;6                   ;626    ;664    ;3.6  ;225,000.00
+Polestar     ;1                            ;2021;2                   ;600    ;738    ;4.1  ;155,000.00
+Mercedes-Benz;SLS AMG                      ;2015;6.2                 ;622    ;468    ;3.2  ;222,000.00
+Porsche      ;Taycan 4S                    ;2022;Electric Motor      ;562    ;479    ;3.8  ;104,000.00
+McLaren      ;GT                           ;2021;4                   ;612    ;465    ;3.1  ;210,000.00
+BMW          ;M4                           ;2022;3                   ;503    ;479    ;3.8  ;71,800.00
+Nissan       ;370Z Nismo                   ;2021;3.7                 ;350    ;276    ;4.8  ;46,100.00
+Lamborghini  ;Urus                         ;2021;4                   ;641    ;627    ;3.2  ;218,000.00
+BMW          ;M5                           ;2022;4.4                 ;600    ;553    ;3.2  ;103,500.00
+Chevrolet    ;Camaro SS                    ;2021;6.2                 ;455    ;455    ;4    ;42,900.00
+Lamborghini  ;Aventador                    ;2021;6.5                 ;770    ;531    ;2.9  ;417,826.00
+Nissan       ;370Z                         ;2021;3.7                 ;332    ;270    ;5    ;30,090.00
+Chevrolet    ;Corvette Stingray            ;2021;6.2                 ;490    ;465    ;2.8  ;59,900.00
+Porsche      ;718 Cayman                   ;2022;2                   ;300    ;280    ;4.5  ;61,000.00
+Lexus        ;LC 500                       ;2022;5                   ;471    ;398    ;4.4  ;92,950.00
+McLaren      ;GT                           ;2022;4                   ;620    ;465    ;3.1  ;213,195.00
+Audi         ;TT RS                        ;2022;2.5                 ;394    ;354    ;3.4  ;67,000.00
+Chevrolet    ;Camaro ZL1                   ;2021;6.2                 ;650    ;650    ;3.5  ;64,000.00
+Lamborghini  ;Urus                         ;2021;4                   ;641    ;627    ;3.6  ;222,000.00
+Porsche      ;Cayman GT4                   ;2022;4                   ;414    ;309    ;4.2  ;102,100.00
+Audi         ;RS7                          ;2022;4                   ;591    ;590    ;3.5  ;114,000.00
+Chevrolet    ;Camaro ZL1                   ;2021;6.2                 ;650    ;650    ;3.5  ;62,500.00
+Lamborghini  ;Urus                         ;2021;4                   ;641    ;627    ;3.6  ;222,004.00
+Porsche      ;Cayman                       ;2022;2.5                 ;365    ;309    ;4.5  ;68,900.00
+McLaren      ;570S                         ;2021;3.8                 ;562    ;443    ;3.1  ;192,500.00
+Ford         ;Mustang Mach 1               ;2021;5                   ;480    ;420    ;4    ;51,720.00
+Ferrari      ;Roma                         ;2021;3.9                 ;612    ;561    ;3.3  ;222,620.00
+Mercedes-Benz;AMG C63                      ;2021;4                   ;503    ;516    ;3.8  ;77,500.00
+Bentley      ;Continental GT               ;2021;6                   ;626    ;664    ;3.4  ;220,300.00
+McLaren      ;570S                         ;2020;3.8                 ;562    ;443    ;3.1  ;204,550.00
+Rolls-Royce  ;Wraith                       ;2021;6.6                 ;624    ;605    ;4.3  ;330,000.00
+TVR          ;Griffith                     ;2022;5                   ;500    ;479    ;3.8  ;123,500.00
+Mercedes-Benz;SLS AMG                      ;2015;6.2                 ;622    ;468    ;3.6  ;228,000.00
+Porsche      ;Taycan                       ;2021;Electric            ;750    ;774    ;2.6  ;185,000.00
+McLaren      ;570S                         ;2021;3.8                 ;562    ;443    ;3.1  ;191,000.00
+Porsche      ;Taycan                       ;2022;2                   ;402    ;254    ;5.1  ;81,250.00
+McLaren      ;600LT                        ;2021;3.8                 ;592    ;457    ;2.8  ;242,500.00
+Dodge        ;Challenger SRT Hellcat Redeye;2022;6.2                 ;797    ;707    ;3.5  ;76,000.00
+Lamborghini  ;Urus                         ;2021;4                   ;641    ;626    ;3.5  ;218,000.00
+McLaren      ;570S                         ;2021;3.8                 ;562    ;443    ;3.1  ;191,000.00
+Lamborghini  ;Aventador S                  ;2021;6.5                 ;729    ;509    ;2.9  ;417,650.00
+BMW          ;M2 Competition               ;2022;3                   ;405    ;406    ;4    ;59,895.00
+Ford         ;GT                           ;2022;3.5                 ;660    ;550    ;2.9  ;500,000.00
+Audi         ;R8 Spyder                    ;2022;5.2                 ;562    ;406    ;3.5  ;183,300.00
+Chevrolet    ;Corvette Stingray            ;2021;6.2                 ;495    ;470    ;2.9  ;60,995.00
+Acura        ;NSX                          ;2022;3.5                 ;573    ;476    ;2.7  ;157,500.00
+Audi         ;RS5                          ;2022;2.9                 ;444    ;443    ;3.7  ;77,250.00
+Ford         ;GT                           ;2022;3.5                 ;660    ;550    ;2.8  ;500,000.00
+Rolls-Royce  ;Wraith                       ;2022;6.8                 ;624    ;605    ;4.4  ;330,000.00
+Lamborghini  ;Aventador                    ;2021;6.5                 ;729    ;507    ;2.9  ;393,695.00
+BMW          ;M2                           ;2022;3                   ;405    ;406    ;4    ;58,900.00
+Nissan       ;370Z Nismo                   ;2021;3.7                 ;350    ;276    ;4.6  ;45,000.00
+Audi         ;TT RS                        ;2022;2.5                 ;394    ;354    ;3.4  ;67,895.00
+Jaguar       ;F-Type R                     ;2021;5                   ;575    ;516    ;3.5  ;103,200.00
+Audi         ;RS 5 Coupe                   ;2021;2.9                 ;444    ;443    ;3.7  ;75,100.00
+Mercedes-Benz;SLS AMG Black Series         ;2014;6.2                 ;622    ;468    ;3.5  ;275,000.00
+Acura        ;NSX                          ;2022;3.5                 ;573    ;476    ;2.9  ;157,500.00
+Jaguar       ;F-Type                       ;2022;2                   ;296    ;295    ;5.4  ;61,600.00
+Porsche      ;718 Cayman GT4               ;2022;4                   ;414    ;309    ;4.2  ;102,550.00
+Chevrolet    ;Camaro ZL1                   ;2022;6.2                 ;650    ;650    ;3.5  ;69,000.00
+Mercedes-Benz;SLS AMG                      ;2021;4                   ;577    ;516    ;3.6  ;247,500.00
+Aston Martin ;DBS Superleggera             ;2022;5.2                 ;715    ;664    ;3.2  ;307,820.00
+Porsche      ;Taycan Turbo S               ;2021;Electric            ;750    ;774    ;2.6  ;185,000.00
+BMW          ;M2 CS                        ;2022;3                   ;444    ;406    ;4    ;84,595.00
+Jaguar       ;F-Type                       ;2021;5                   ;575    ;516    ;3.5  ;103,200.00
+Nissan       ;370Z                         ;2021;3.7                 ;332    ;270    ;5    ;30,000.00
+Aston Martin ;DB11                         ;2021;4                   ;503    ;513    ;4    ;201,495.00
+Alfa Romeo   ;Giulia Quadrifoglio          ;2021;2.9                 ;505    ;443    ;3.8  ;76,950.00
+Lexus        ;LC 500                       ;2021;5                   ;471    ;398    ;4.4  ;92,950.00
+Porsche      ;718 Cayman                   ;2021;2                   ;300    ;280    ;4.9  ;59,900.00
+Ford         ;GT                           ;2022;3.5                 ;660    ;550    ;3    ;500,000.00
+Lexus        ;LC                           ;2021;5                   ;471    ;398    ;4.4  ;92,950.00
+Mercedes-Benz;AMG C63                      ;2022;4                   ;503    ;516    ;3.8  ;69,900.00
+Rolls-Royce  ;Wraith                       ;2021;6.7                 ;624    ;605    ;4.4  ;338,000.00
+Bentley      ;Continental GT               ;2021;6                   ;626    ;664    ;3.6  ;218,400.00
+Lotus        ;Evora GT                     ;2021;3.5                 ;416    ;317    ;3.8  ;104,970.00
+Alpine       ;A110                         ;2021;1.8                 ;288    ;236    ;4.4  ;71,500.00
+Dodge        ;Viper                        ;2017;8.4                 ;645    ;600    ;3.3  ;118,795.00
+McLaren      ;600LT                        ;2021;3.8                 ;592    ;457    ;2.8  ;240,000.00
+Dodge        ;Challenger SRT Hellcat       ;2021;6.2                 ;717    ;656    ;3.5  ;64,100.00
+Lotus        ;Evora GT                     ;2021;3.5                 ;416    ;317    ;3.8  ;100,450.00
+Tesla        ;Roadster                     ;2022;N/A                 ;10000+ ;0      ;1.9  ;200,000.00
+Bentley      ;Continental GT               ;2022;4                   ;542    ;568    ;3.9  ;207,825.00
+Lotus        ;Evora GT                     ;2021;3.5                 ;416    ;317    ;3.8  ;105,000.00
+Tesla        ;Model S Plaid                ;2021;Electric (tri-motor);1020   ;1050   ;1.9  ;141,190.00
+Dodge        ;Viper ACR                    ;2017;8.4                 ;645    ;600    ;3.3  ;126,190.00
+Aston Martin ;DB11                         ;2021;5.2                 ;630    ;516    ;3.5  ;205,000.00
+Chevrolet    ;Camaro SS                    ;2022;6.2                 ;455    ;455    ;4.1  ;42,000.00
+Jaguar       ;F-Type R                     ;2021;5                   ;575    ;516    ;3.5  ;103,200.00
+McLaren      ;GT                           ;2022;4                   ;612    ;465    ;3.2  ;210,000.00
+Ferrari      ;Portofino                    ;2021;3.9                 ;591    ;560    ;3.3  ;218,750.00
+Mercedes-Benz;AMG C 63                     ;2022;4                   ;503    ;516    ;3.8  ;70,000.00
+Aston Martin ;Vantage                      ;2021;4                   ;503    ;505    ;3.5  ;146,000.00
+Lamborghini  ;Aventador                    ;2021;6.5                 ;770    ;531    ;2.8  ;393,695.00
+BMW          ;Z4 M40i                      ;2022;3                   ;382    ;369    ;4.3  ;63,700.00
+Nissan       ;370Z Nismo                   ;2020;3.7                 ;350    ;276    ;4.6  ;45,790.00
+Lamborghini  ;Urus                         ;2021;4                   ;641    ;627    ;3.6  ;222,004.00
+BMW          ;M4                           ;2022;3                   ;473    ;406    ;4    ;72,800.00
+Audi         ;RS5                          ;2022;2.9                 ;444    ;443    ;3.7  ;75,100.00
+Chevrolet    ;Camaro ZL1                   ;2021;6.2                 ;650    ;650    ;3.5  ;62,000.00
+Aston Martin ;DBS Superleggera             ;2021;5.2                 ;715    ;663    ;3.2  ;308,000.00
+Maserati     ;GranTurismo                  ;2019;4.7                 ;454    ;384    ;4.7  ;150,980.00
+Lotus        ;Evora                        ;2021;3.5                 ;416    ;317    ;3.8  ;94,000.00
+Porsche      ;Cayman GT4                   ;2021;4                   ;414    ;309    ;4.2  ;100,200.00
+Dodge        ;Challenger SRT Hellcat       ;2022;6.2                 ;717    ;656    ;3.5  ;61,500.00
+Mercedes-AMG ;C63 S Coupe                  ;2021;4                   ;503    ;516    ;3.7  ;77,950.00
+Ferrari      ;F8 Tributo                   ;2021;3.9                 ;710    ;568    ;2.9  ;274,280.00
+Aston Martin ;DBS Superleggera             ;2022;5.2                 ;715    ;664    ;3.4  ;314,500.00
+Jaguar       ;F-Type                       ;2021;5                   ;575    ;516    ;3.5  ;105,900.00
+Maserati     ;GranTurismo                  ;2022;4.7                 ;454    ;384    ;4.7  ;150,980.00
+TVR          ;Griffith                     ;2021;5                   ;500    ;420    ;3.9  ;157,500.00
+Aston Martin ;DBS Superleggera             ;2022;5.2                 ;715    ;663    ;3.2  ;308,000.00
+Jaguar       ;F-Type                       ;2021;3                   ;380    ;339    ;4.9  ;63,100.00
+Porsche      ;Taycan                       ;2021;Electric            ;616    ;774    ;2.6  ;185,000.00
+Mercedes-Benz;AMG GT Black Series          ;2021;4                   ;720    ;590    ;3.1  ;325,000.00
+Jaguar       ;F-Type                       ;2022;5                   ;575    ;516    ;3.5  ;103,200.00
+Subaru       ;WRX STI                      ;2022;2.5                 ;310    ;290    ;5.2  ;38,170.00
+Lexus        ;LC 500                       ;2022;5                   ;471    ;398    ;4.4  ;93,050.00
+BMW          ;M2 CS                        ;2022;3                   ;444    ;406    ;3.8  ;84,595.00
+Lotus        ;Evora GT                     ;2021;3.5                 ;416    ;317    ;3.8  ;96,950.00
+Audi         ;RS 6 Avant                   ;2022;4                   ;591    ;590    ;3.1  ;110,045.00
+Chevrolet    ;Camaro ZL1                   ;2021;6.2                 ;650    ;650    ;3.5  ;64,695.00
+Porsche      ;Cayman GT4                   ;2021;4                   ;414    ;309    ;4.2  ;102,550.00
+Mercedes-Benz;AMG GT 63 S                  ;2021;4                   ;630    ;664    ;3.1  ;162,900.00
+Lotus        ;Evora GT                     ;2021;3.5                 ;416    ;317    ;3.8  ;100,450.00
+Alfa Romeo   ;Giulia Quadrifoglio          ;2021;2.9                 ;505    ;443    ;3.8  ;74,750.00
+Chevrolet    ;Camaro ZL1                   ;2021;6.2                 ;650    ;650    ;3.5  ;64,695.00
+Lamborghini  ;Aventador                    ;2021;6.5                 ;730    ;509    ;2.9  ;393,695.00
+Porsche      ;Boxster                      ;2021;2                   ;300    ;280    ;4.9  ;62,000.00
+Audi         ;RS 5                         ;2022;2.9                 ;444    ;442    ;3.5  ;75,400.00
+Chevrolet    ;Camaro                       ;2021;6.2                 ;455    ;455    ;4    ;25,000.00
+Lotus        ;Evora GT                     ;2021;3.5                 ;416    ;317    ;3.8  ;100,450.00
+Lamborghini  ;Aventador S                  ;2021;6.5                 ;730    ;509    ;2.9  ;417,650.00
+BMW          ;M4                           ;2021;3                   ;473    ;406    ;4    ;72,800.00
+Nissan       ;370Z Nismo                   ;2021;3.7                 ;350    ;276    ;5    ;48,000.00
+Maserati     ;GranTurismo                  ;2021;4.7                 ;454    ;384    ;4.7  ;150,980.00
+Audi         ;RS7                          ;2021;4                   ;591    ;590    ;3.5  ;114,000.00
+Dodge        ;Challenger Hellcat           ;2021;6.2                 ;717    ;656    ;3.5  ;64,000.00
+Mercedes-AMG ;GT Black Series              ;2021;4                   ;720    ;590    ;3.1  ;325,000.00
+Rolls-Royce  ;Wraith                       ;2021;6.8                 ;624    ;605    ;4.4  ;330,000.00
+Porsche      ;718 Boxster                  ;2022;2                   ;300    ;280    ;4.9  ;62,000.00
+McLaren      ;Artura                       ;2021;3                   ;671    ;531    ;3    ;225,000.00
+Ford         ;GT                           ;2022;3.5                 ;647    ;550    ;3    ;500,000.00
+Alfa Romeo   ;Giulia Quadrifoglio          ;2021;2.9                 ;505    ;443    ;3.8  ;75,000.00
+Chevrolet    ;Corvette Stingray            ;2021;6.2                 ;495    ;470    ;2.9  ;58,900.00
+Lamborghini  ;Aventador                    ;2021;6.5                 ;770    ;531    ;2.8  ;417,826.00
+BMW          ;M4                           ;2022;3                   ;473    ;406    ;4.1  ;71,800.00
+Nissan       ;370Z Nismo                   ;2021;3.7                 ;350    ;276    ;5    ;47,190.00
+Audi         ;RS6                          ;2022;4                   ;591    ;590    ;3.5  ;113,000.00
+Chevrolet    ;Camaro ZL1                   ;2021;6.2                 ;650    ;650    ;3.5  ;63,000.00
+Chevrolet    ;Camaro ZL1                   ;2021;6.2                 ;650    ;650    ;3.5  ;68,000.00
+Jaguar       ;F-Type                       ;2022;2                   ;296    ;295    ;5.4  ;62,750.00
+Alfa Romeo   ;4C                           ;2020;1.8                 ;237    ;258    ;4.2  ;67,150.00
+Audi         ;RS7                          ;2022;4                   ;591    ;590    ;3.5  ;115,045.00
+Nissan       ;370Z                         ;2021;3.7                 ;350    ;276    ;5.3  ;30,090.00
+Porsche      ;Taycan Turbo S               ;2022;Electric            ;750    ;774    ;2.6  ;185,000.00
+McLaren      ;GT                           ;2022;4                   ;620    ;465    ;3.1  ;208,000.00
+Ford         ;GT                           ;2022;3.5                 ;660    ;550    ;2.8  ;500,000.00
+Ferrari      ;Portofino                    ;2022;3.9                 ;591    ;561    ;3.4  ;250,000.00
+Porsche      ;718 Cayman                   ;2022;2                   ;300    ;280    ;4.9  ;61,500.00
+McLaren      ;GT                           ;2022;4                   ;620    ;465    ;3.1  ;211,300.00
+Ford         ;GT                           ;2022;3.5                 ;660    ;550    ;2.9  ;500,000.00
+Lamborghini  ;Urus                         ;2021;4                   ;641    ;627    ;3.6  ;218,009.00
+Aston Martin ;Vantage                      ;2022;4                   ;503    ;505    ;3.5  ;152,995.00
+BMW          ;M4                           ;2022;3                   ;473    ;406    ;3.8  ;71,800.00
+Nissan       ;370Z Nismo                   ;2021;3.7                 ;350    ;276    ;5    ;48,000.00
+Audi         ;TT RS                        ;2022;2.5                 ;394    ;354    ;3.6  ;67,600.00
+Chevrolet    ;Camaro SS                    ;2021;6.2                 ;455    ;455    ;4    ;42,000.00
+Audi         ;TT RS Coupe                  ;2022;2.5                 ;394    ;354    ;3.5  ;68,000.00
+Chevrolet    ;Camaro SS Convertible        ;2022;6.2                 ;455    ;455    ;4    ;49,000.00
+Bentley      ;Continental GT               ;2022;6                   ;626    ;664    ;3.3  ;225,000.00
+Lotus        ;Evora GT                     ;2021;3.5                 ;416    ;317    ;3.8  ;100,000.00
+Porsche      ;Panamera Turbo S E-Hybrid    ;2021;4                   ;689    ;642    ;3    ;190,000.00
+Mercedes-Benz;S63 AMG                      ;2021;4                   ;603    ;664    ;3.4  ;168,000.00
+Porsche      ;718 Cayman GT4               ;2022;4                   ;414    ;309    ;4.2  ;102,000.00
+BMW          ;M5                           ;2022;4.4                 ;600    ;553    ;3.2  ;103,500.00
+Audi         ;TT RS                        ;2021;2.5                 ;394    ;354    ;3.6  ;67,600.00
+Mercedes-Benz;C 63 AMG                     ;2022;4                   ;469    ;479    ;3.9  ;69,000.00
+Aston Martin ;Vantage                      ;2021;4                   ;503    ;505    ;3.6  ;151,000.00
+Tesla        ;Roadster                     ;2022;Electric            ;1000   ;737    ;1.9  ;200,000.00
+Porsche      ;Cayman GT4                   ;2022;4                   ;414    ;309    ;4.2  ;102,100.00
+Dodge        ;Challenger SRT Hellcat       ;2021;6.2                 ;717    ;656    ;3.5  ;65,000.00
+Mercedes-Benz;C63 S AMG                    ;2022;4                   ;503    ;516    ;3.9  ;77,600.00
+Lamborghini  ;Aventador S                  ;2021;6.5                 ;730    ;507    ;2.9  ;417,826.00
+BMW          ;i8                           ;2022;1.5                 ;369    ;184    ;4.2  ;147,500.00
+Ferrari      ;Roma                         ;2021;3.9                 ;611    ;560    ;3.3  ;222,620.00
+Mercedes-Benz;C63 AMG                      ;2021;4                   ;469    ;479    ;3.9  ;77,000.00
+Porsche      ;Panamera                     ;2022;2.9                 ;325    ;331    ;5.3  ;88,550.00
+McLaren      ;570S                         ;2021;3.8                 ;562    ;443    ;3.1  ;192,500.00
+Acura        ;NSX                          ;2021;3.5                 ;573    ;476    ;2.7  ;157,500.00
+Ferrari      ;F8 Tributo                   ;2022;3.9                 ;710    ;568    ;2.8  ;275,000.00
+Porsche      ;Taycan Turbo S               ;2021;Electric            ;750    ;774    ;2.6  ;185,000.00
+Dodge        ;Challenger SRT Hellcat Redeye;2022;6.2                 ;797    ;707    ;3.5  ;80,190.00
+Porsche      ;Taycan                       ;2021;2                   ;402    ;254    ;5.1  ;81,250.00
+Tesla        ;Roadster                     ;2022;0                   ;10,000 ;7,376  ;1.9  ;200,000.00
+Lexus        ;LC 500                       ;2021;5                   ;471    ;398    ;4.4  ;93,000.00
+McLaren      ;600LT                        ;2021;3.8                 ;592    ;457    ;2.8  ;256,500.00
+Bentley      ;Continental GT               ;2021;4                   ;542    ;568    ;3.9  ;220,000.00
+Alfa Romeo   ;4C Spider                    ;2020;1.7                 ;237    ;258    ;4.1  ;67,150.00
+Ferrari      ;F8 Spider                    ;2022;3.9                 ;710    ;568    ;2.9  ;274,390.00
+Lotus        ;Evora GT                     ;2021;3.5                 ;416    ;317    ;3.8  ;99,990.00
+Nissan       ;370Z Nismo                   ;2021;3.7                 ;350    ;276    ;4.5  ;45,790.00
+Porsche      ;718 Cayman                   ;2022;2                   ;300    ;280    ;4.9  ;61,500.00
+McLaren      ;570S                         ;2021;3.8                 ;562    ;443    ;3.1  ;202,000.00
+Ford         ;GT                           ;2022;3.5                 ;660    ;550    ;2.8  ;500,000.00
+Bentley      ;Continental GT               ;2021;6                   ;626    ;664    ;3.3  ;201,000.00
+Lotus        ;Evora GT                     ;2021;3.5                 ;416    ;317    ;3.8  ;99,000.00
+Dodge        ;Charger SRT Hellcat          ;2022;6.2                 ;717    ;650    ;3.5  ;78,595.00
+Jaguar       ;F-Type R                     ;2022;5                   ;575    ;516    ;3.5  ;103,200.00
+Nissan       ;370Z Nismo                   ;2021;3.7                 ;350    ;276    ;4.9  ;47,820.00
+Ferrari      ;F8 Tributo                   ;2021;3.9                 ;710    ;568    ;2.8  ;274,280.00
+Aston Martin ;DBS Superleggera             ;2022;5.2                 ;715    ;663    ;3.4  ;321,000.00
+Mercedes-AMG ;C63 S                        ;2022;4                   ;503    ;516    ;3.7  ;78,100.00
+Tesla        ;Model S Plaid                ;2022;Electric            ;1,020  ;1,050  ;1.9  ;141,190.00
+Lamborghini  ;Urus                         ;2021;4                   ;641    ;627    ;3.6  ;222,000.00
+Ferrari      ;488 GTB                      ;2022;3.9                 ;661    ;561    ;3    ;333,750.00
+Mercedes-Benz;AMG GT                       ;2021;4                   ;523    ;494    ;3.8  ;118,500.00
+Dodge        ;Challenger SRT Hellcat       ;2021;6.2                 ;717    ;656    ;3.5  ;64,195.00
+Maserati     ;MC20                         ;2021;3                   ;621    ;538    ;2.9  ;210,000.00
+Audi         ;RS 5                         ;2021;2.9                 ;444    ;443    ;3.5  ;75,100.00
+Chevrolet    ;Camaro                       ;2021;6.2                 ;455    ;455    ;4    ;25,000.00
